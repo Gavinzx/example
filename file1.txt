@@ -2,3 +2,5 @@
 修改file1.txt
 再次修改file1.txt
 第三次修改file1.txt
+
+测试diff命令
